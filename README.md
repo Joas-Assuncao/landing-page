@@ -5,3 +5,7 @@ Bom, não tem muito o que falar deste projeto. Foi a minha primeira landing-page
 ## Como ocorreu:
 
 Peguei a inspiração no dribbble (não achei o link aqui agora, perdão designer), busquei svgs que combinassem, e fui criando partes do HTML e fazendo o CSS, para não ter que fazer tudo junto.
+
+## Link aplicação (hospedado no Netlify):
+
+https://kind-shockley-ca621b.netlify.app/
